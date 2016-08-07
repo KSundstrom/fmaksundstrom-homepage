@@ -1,0 +1,45 @@
+/**
+ * K. Sundström
+ * Copyright 2016 Kasper Sundström
+ */
+
+/**
+ * DECLARE CHARSET
+ */
+@charset 'utf-8';
+
+/**
+ * IMPORT FONTS
+ * System font stack: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+ * Basic sans stack:  'Helvetica Neue', Helvetica, Arial, sans-serif;
+ * Basic serif stack: Georgia, 'Times New Roman', Times, serif;
+ * Basic mono stack:  Menlo, Monaco, Consolas, 'Courier New', monospace;
+ */
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i);
+
+/**
+ * DECLARE NAMESPACES
+ */
+@namespace url(http://www.w3.org/1999/xhtml);
+@namespace svg url(http://www.w3.org/2000/svg);
+@namespace xlink url(http://www.w3.org/1999/xlink);
+
+/**
+ * CUSTOM STYLING
+ */
+body {
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.jumbotron {
+  color: white;
+  background-color: #a1bf37;
+  background-image: -webkit-linear-gradient(top, #6b7f25, #accc3b);
+  background-image:    -moz-linear-gradient(top, #6b7f25, #accc3b);
+  background-image:      -o-linear-gradient(top, #6b7f25, #accc3b);
+  background-image:         linear-gradient(to bottom, #6b7f25, #accc3b);
+}
+
+h1 > small {
+  color: inherit;
+}

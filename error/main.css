@@ -1,0 +1,50 @@
+html {
+  background-color: #008;
+}
+
+body {
+  font-family: 'VT323', monospace;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  width: 80%;
+  margin: 15% auto 2em;
+  max-width: 54rem;
+}
+
+h1 {
+  display: inline-block;
+  background-color: #888;
+  font: inherit;
+  font-weight: bold;
+  color: #008;
+  padding: 0 0.55em 0.15em;
+  margin: 0;
+}
+
+p {
+  text-align: left;
+  padding: 0;
+  margin: 1em 0 0;
+}
+
+a, a:active, a:hover, a:visited {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.center {
+  text-align: center;
+}
+
+.blink {
+  -webkit-animation: 0.8s steps(2, start) infinite blinking;
+     -moz-animation: 0.8s steps(2, start) infinite blinking;
+       -o-animation: 0.8s steps(2, start) infinite blinking;
+          animation: 0.8s steps(2, start) infinite blinking;
+}
+@-webkit-keyframes blinking { to { visibility: hidden; } }
+   @-moz-keyframes blinking { to { visibility: hidden; } }
+     @-o-keyframes blinking { to { visibility: hidden; } }
+        @keyframes blinking { to { visibility: hidden; } }

@@ -1,0 +1,7 @@
+# http://www.robotstxt.org/
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /dev/
+Disallow: /koala/
+Sitemap: http://ksundstrom.fi/sitemap.xml
