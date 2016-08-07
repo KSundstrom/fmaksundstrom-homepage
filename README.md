@@ -1,6 +1,6 @@
 # [K. Sundström](http://ksundstrom.fi/)
 
-Hemsida för den privata rörelsen Fma K. Sundström.
+Hemsida för K. Sundström.
 
 
 ## Upphovsman
