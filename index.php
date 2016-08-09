@@ -1,3 +1,14 @@
+<?php
+  $haystack = strtolower($_SERVER['HTTP_ACCEPT']);
+  $needle = 'application/xhtml+xml';
+  $position = strpos($haystack, $needle);
+  if($position !== false) {
+    header('Content-Type: application/xhtml+xml; charset=utf-8');
+    echo '<?xml version="1.0" encoding="utf-8" ?>' . chr(0x0a);
+  } else {
+    header('Content-Type: text/html; charset=utf-8');
+  }
+?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="sv-FI" xml:lang="sv-FI" dir="ltr">
   <head prefix="og: http://ogp.me/ns#">
@@ -170,7 +181,7 @@
         <hr/>
         <p class="small text-muted">
           © 2016 Kasper Sundström.
-          Senast uppdaterad <!--#config timefmt="%d.%m.%Y" --><!--#echo var="LAST_MODIFIED" -->.
+          Senast uppdaterad <?php echo date('Y-m-d', getlastmod()); ?>.
           <span lang="en-GB" xml:lang="en-GB">Framework by <a hreflang="en-US" href="https://getbootstrap.com/">Bootstrap</a>.</span>
         </p>
       </div>

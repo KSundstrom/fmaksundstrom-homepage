@@ -10,7 +10,7 @@ Hemsida för K. Sundström.
 
 ## Standarder och komponenter
 
-* Skriven i polyglott XHTML5 + SVG + RDFa + ARIA, CSS3 och JavaScript.
+* Skriven i polyglott XHTML5 + SVG + RDFa + ARIA, CSS3, JavaScript och PHP.
 * Använder **[Bootstrap](https://getbootstrap.com/)** och **[jQuery](https://jquery.com/)**.
 * Viss hjälp även från **[HTML5 Boilerplate](https://html5boilerplate.com/)**.
 
