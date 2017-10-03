@@ -1,6 +1,6 @@
 /*!
  * K. Sundström
- * Copyright 2016 Kasper Sundström
+ * Copyright 2016–2017 Kasper Sundström
  */
 
 /**
