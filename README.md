@@ -18,6 +18,6 @@ Hemsida för K. Sundström.
 
 ## Copyright
 
-© 2016–2017 Kasper Sundström.
+© 2016–2021 Kasper Sundström.
 
-Alla rättigheter förbehållna.
+Alla rättigheter förbehållna. All rights reserved.

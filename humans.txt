@@ -1,16 +1,16 @@
-http://humanstxt.org/
+# https://humanstxt.org/
 
 /* TEAM */
+  Author: Kasper Sundström
+  Site: ksundstrom.fi
+  Twitter: @ksundstrom
+  Location: Finland
 
-Design and development: Kasper Sundström
-Site: ksundstrom.fi
-Twitter: @ksundstrom
-Location: Finland
+/* THANKS */
 
 /* SITE */
-
-Last update: 2017-04-22
-Language: Swedish
-Standards: Polyglot XHTML5 + SVG + RDFa + ARIA, CSS, JavaScript, PHP
-Components: Bootstrap, jQuery, HTML5 Boilerplate, Normalize.css
-Software: Atom, Notepad++, Illustrator, GitHub, XAMPP, FileZilla
+  Last update: 2021-05-06
+  Language: Swedish
+  Standards: Polyglot XHTML5 + SVG + RDFa + ARIA, CSS, JavaScript, PHP
+  Components: Bootstrap, jQuery, HTML5 Boilerplate, Normalize.css
+  Software: Atom, Notepad++, Illustrator, GitHub, XAMPP, FileZilla

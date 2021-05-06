@@ -5,15 +5,15 @@
   "description": "Erbjuder konsultering och undervisning i redovisning, skattefrågor, organisationsjuridik, kommunikation, översättning, copy, design, webb och ADB.",
   "icons": [
     {
-			"src": "\/inc\/ico\/android-chrome-192x192.png",
-			"sizes": "192x192",
-			"type": "image\/png"
-		},
-		{
-			"src": "\/inc\/ico\/android-chrome-512x512.png",
-			"sizes": "512x512",
-			"type": "image\/png"
-		}
+      "src": "\/inc\/ico\/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image\/png"
+    },
+    {
+      "src": "\/inc\/ico\/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image\/png"
+    }
   ],
   "scope": "\/",
   "start_url": "\/",

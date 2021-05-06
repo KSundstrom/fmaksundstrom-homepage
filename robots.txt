@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /error/
+Sitemap: http://ksundstrom.fi/sitemap.xml
