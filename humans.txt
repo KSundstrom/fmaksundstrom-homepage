@@ -1,4 +1,4 @@
-# https://humanstxt.org/
+https://humanstxt.org/
 
 /* TEAM */
   Author: Kasper Sundström
