@@ -39,10 +39,10 @@
     <link rel="canonical" href="http://ksundstrom.fi/"/>
 
     <!-- Icons -->
-    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="icon/apple-touch-icon.png"/>
-    <link rel="mask-icon" type="image/svg+xml" href="inc/ico/safari-pinned-tab.svg"/>
+    <!-- <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="icon/apple-touch-icon.png"/> -->
+    <!-- <link rel="mask-icon" type="image/svg+xml" href="inc/ico/safari-pinned-tab.svg"/> -->
     <link rel="icon" type="image/png" href="inc/ico/favicon-32x32.png" sizes="32x32"/>
-    <link rel="icon" type="image/png" href="inc/ico/favicon-16x16.png" sizes="16x16"/>
+    <!-- <link rel="icon" type="image/png" href="inc/ico/favicon-16x16.png" sizes="16x16"/> -->
 
     <!-- Open Graph -->
     <meta property="og:title" content="K. Sundström"/>

@@ -9,7 +9,7 @@ https://humanstxt.org/
 /* THANKS */
 
 /* SITE */
-  Last update: 2021-05-06
+  Last update: 2021-10-07
   Language: Swedish
   Standards: Polyglot XHTML5 + SVG + RDFa + ARIA, CSS, JavaScript, PHP
   Components: Bootstrap, jQuery, HTML5 Boilerplate, Normalize.css

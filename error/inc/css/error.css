@@ -1,3 +1,32 @@
+/*!
+ * K. Sundström
+ * Copyright 2016–2021 Kasper Sundström. Alla rättigheter förbehållna. All rights reserved.
+ */
+
+/**
+ * DECLARE CHARSET
+ */
+@charset 'utf-8';
+
+/**
+ * IMPORT FONTS
+ * System font stack: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+ * Basic sans stack:  'Helvetica Neue', Helvetica, Arial, sans-serif;
+ * Basic serif stack: Georgia, 'Times New Roman', Times, serif;
+ * Basic mono stack:  Menlo, Monaco, Consolas, 'Courier New', monospace;
+ */
+@import url(https://fonts.googleapis.com/css?family=VT323);
+
+/**
+ * DECLARE NAMESPACES
+ */
+@namespace url(http://www.w3.org/1999/xhtml);
+@namespace svg url(http://www.w3.org/2000/svg);
+@namespace xlink url(http://www.w3.org/1999/xlink);
+
+/**
+ * CUSTOM STYLING
+ */
 html {
   background-color: #008;
 }
