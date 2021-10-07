@@ -6,11 +6,9 @@ https://humanstxt.org/
   Twitter: @ksundstrom
   Location: Finland
 
-/* THANKS */
-
 /* SITE */
   Last update: 2021-10-07
   Language: Swedish
   Standards: Polyglot XHTML5 + SVG + RDFa + ARIA, CSS, JavaScript, PHP
-  Components: Bootstrap, jQuery, HTML5 Boilerplate, Normalize.css
-  Software: Atom, Notepad++, Illustrator, GitHub, XAMPP, FileZilla
+  Components: Bootstrap, jQuery, Normalize.css, HTML5 Boilerplate
+  Software: Visual Studio Code, Atom, Notepad++, Illustrator, GitHub, XAMPP, FileZilla

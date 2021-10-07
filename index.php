@@ -14,7 +14,7 @@
   <head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
     <!--
       K. Sundström
@@ -42,7 +42,7 @@
     <!-- <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="icon/apple-touch-icon.png"/> -->
     <!-- <link rel="mask-icon" type="image/svg+xml" href="inc/ico/safari-pinned-tab.svg"/> -->
     <link rel="icon" type="image/png" href="inc/ico/favicon-32x32.png" sizes="32x32"/>
-    <!-- <link rel="icon" type="image/png" href="inc/ico/favicon-16x16.png" sizes="16x16"/> -->
+    <link rel="icon" type="image/png" href="inc/ico/favicon-16x16.png" sizes="16x16"/>
 
     <!-- Open Graph -->
     <meta property="og:title" content="K. Sundström"/>
@@ -54,20 +54,11 @@
     <meta property="og:url" content="http://ksundstrom.fi/"/>
     <meta property="og:description" content="K. Sundström erbjuder flexibel konsultering och undervisning i redovisning, skattefrågor, organisationsjuridik, kommunikation, översättning, copy, design, webb och ADB."/>
 
-    <!-- Bootstrap 3.4.1 CSS -->
-    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"/>
-
-    <!-- Bootstrap 3.4.1 theme CSS -->
-    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous"/>
+    <!-- Bootstrap 4.6.0 CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 
     <!-- Custom CSS and font imports -->
     <link rel="stylesheet" type="text/css" href="inc/css/main.css"/>
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script type="application/javascript" charset="utf-8" src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script type="application/javascript" charset="utf-8" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 
     <!-- JSON-LD -->
     <script type="application/ld+json">
@@ -117,11 +108,11 @@
   <body vocab="https://schema.org/" typeof="LocalBusiness">
 
     <!-- OBSOLETE BROWSER WARNING -->
-    <!--[if lt IE 9]>
+    <!--[if lt IE 10]>
       <div class="alert alert-danger text-center" role="alert">
         <p>
           <span class="glyphicon glyphicon-alert" aria-hidden="true"></span>
-          Du använder en föråldrad webbläsare (Internet Explorer 8 eller äldre). Vänligen <a href="http://browsehappy.com/" class="alert-link">ladda ner en modern webbläsare</a>.
+          Du använder en föråldrad webbläsare (Internet Explorer 9 eller äldre). Vänligen <a href="http://browsehappy.com/" class="alert-link">ladda ner en modern webbläsare</a>.
         </p>
       </div>
     <![endif]-->
@@ -180,18 +171,18 @@
       <div class="container text-center">
         <hr/>
         <p class="small text-muted">
-          © 2016–2021 Kasper Sundström.
+          © 2016–<?php echo date('Y', getlastmod()); ?> Kasper Sundström.
           Senast uppdaterad <?php echo date('Y-m-d', getlastmod()); ?>.
-          <span lang="en-GB" xml:lang="en-GB">Framework by <a hreflang="en-US" href="https://getbootstrap.com/">Bootstrap</a>.</span>
+          <span lang="en-GB" xml:lang="en-GB">Front-end framework by <a hreflang="en-US" href="https://getbootstrap.com/">Bootstrap</a>.</span>
         </p>
       </div>
     </footer>
 
-    <!-- jQuery Core 2.2.4 -->
-    <script type="application/javascript" charset="utf-8" src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <!-- jQuery Core 3.6.0 -->
+    <script type="application/javascript" charset="utf-8" src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
-    <!-- Bootstrap 3.4.1 JavaScript -->
-    <script type="application/javascript" charset="utf-8" src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+    <!-- Bootstrap 4.6.0 JavaScript Bundle -->
+    <script type="application/javascript" charset="utf-8" src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
 
     <!-- Custom JavaScript -->
     <script type="application/javascript" charset="utf-8" src="inc/js/main.js"></script>
