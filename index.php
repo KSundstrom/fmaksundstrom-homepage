@@ -55,7 +55,7 @@
     <meta property="og:description" content="K. Sundström erbjuder flexibel konsultering och undervisning i redovisning, skattefrågor, organisationsjuridik, kommunikation, översättning, copy, design, webb och ADB."/>
 
     <!-- Bootstrap 4.6.0 CSS -->
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous"/>
 
     <!-- Custom CSS and font imports -->
     <link rel="stylesheet" type="text/css" href="inc/css/main.css"/>
@@ -118,12 +118,14 @@
     <![endif]-->
 
     <!-- HEADER -->
-    <header class="jumbotron">
+    <header class="jumbotron jumbotron-fluid">
       <div class="container text-center">
-        <h1>
-          K. Sundström<br/>
-          <small>till din tjänst</small>
+        <h1 class="display-3">
+          K. Sundström
         </h1>
+        <p class="lead">
+          till din tjänst
+        </p>
       </div>
     </header>
 
@@ -134,7 +136,7 @@
         <!-- SECTION -->
         <section>
           <div class="row text-center">
-            <div class="col-lg-12">
+            <div class="col">
               <hr/>
               <p>
                 Flexibel konsultering och undervisning i redovisning, skattefrågor, organisationsjuridik, kommunikation, översättning, copy, design, webb och ADB.
@@ -145,7 +147,7 @@
         </section>
         <section>
           <div class="row">
-            <div class="col-xs-6 text-right">
+            <div class="col text-right">
               <address>
                 Fma K. Sundström<br/>
                 Hitisgränden 3 A 3<br/>
@@ -153,7 +155,7 @@
                 FINLAND
               </address>
             </div>
-            <div class="col-xs-6 text-left">
+            <div class="col text-left">
               <p>
                 <a href="mailto:kasper%40ksundstrom.fi" title="E-post">kasper@ksundstrom.fi</a><br/>
                 <a href="tel:+358407471640" title="Telefon">+358-40-7471640</a><br/>
