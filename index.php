@@ -55,7 +55,7 @@
     <meta property="og:description" content="K. Sundström erbjuder flexibel konsultering och undervisning i redovisning, skattefrågor, organisationsjuridik, kommunikation, översättning, copy, design, webb och ADB."/>
 
     <!-- Bootstrap 4.6.1 CSS -->
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous"/>
 
     <!-- Custom CSS and font imports -->
     <link rel="stylesheet" type="text/css" href="inc/css/main.css"/>
