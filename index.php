@@ -1,5 +1,5 @@
 <?php
-  $haystack = strtolower($_SERVER['HTTP_ACCEPT']);
+  $haystack = isset($_SERVER['HTTP_ACCEPT']) ? strtolower($_SERVER['HTTP_ACCEPT']) : null;
   $needle = 'application/xhtml+xml';
   $position = strpos($haystack, $needle);
   if($position !== false) {
@@ -175,7 +175,7 @@
         <p class="small text-muted">
           © 2016–<?php echo date('Y', getlastmod()); ?> Kasper Sundström.
           Senast uppdaterad <?php echo date('Y-m-d', getlastmod()); ?>.
-          <span lang="en-GB" xml:lang="en-GB">Front-end framework by <a hreflang="en-US" href="https://getbootstrap.com/">Bootstrap</a>.</span>
+          <span lang="en-GB" xml:lang="en-GB">Framework by <a hreflang="en-US" href="https://getbootstrap.com/">Bootstrap</a>.</span>
         </p>
       </div>
     </footer>
