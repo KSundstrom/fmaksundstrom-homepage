@@ -1,5 +1,5 @@
 <?php
-  $haystack = strtolower($_SERVER['HTTP_ACCEPT']);
+  $haystack = isset($_SERVER['HTTP_ACCEPT']) ? strtolower($_SERVER['HTTP_ACCEPT']) : null;
   $needle = 'application/xhtml+xml';
   $position = strpos($haystack, $needle);
   if($position !== false) {
