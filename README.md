@@ -1,10 +1,10 @@
-# [K. Sundström](http://ksundstrom.fi/)
+# [K. Sundström](https://ksundstrom.fi/)
 
 Homepage for Fma K. Sundström.
 
 ## Author
 
-**[Kasper Sundström](https://twitter.com/ksundstrom)**
+**[Kasper Sundström](https://twitter.com/KSundstrom)**
 
 ## Standards and components
 
