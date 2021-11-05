@@ -1,6 +1,6 @@
 # [K. Sundström](https://ksundstrom.fi/)
 
-Homepage for Fma K. Sundström.
+Homepage for my business Fma K. Sundström.
 
 ## Author
 
