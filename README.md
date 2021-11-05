@@ -1,23 +1,23 @@
-# [Fma K. Sundström](http://ksundstrom.fi/)
+# [K. Sundström](http://ksundstrom.fi/)
 
-Hemsida för Fma K. Sundström.
+Homepage for Fma K. Sundström.
 
-## Upphovsman
+## Author
 
 **[Kasper Sundström](https://twitter.com/ksundstrom)**
 
-## Standarder och komponenter
+## Standards and components
 
-* Skriven i polyglott XHTML5 + SVG + RDFa + ARIA, CSS, JavaScript och PHP.
-* Använder **[Bootstrap](https://getbootstrap.com/) 4**, **[jQuery](https://jquery.com/) 3** och **[Normalize.css](https://necolas.github.io/normalize.css/)** 8.
-* Inspiration även från **[HTML5 Boilerplate](https://html5boilerplate.com/)**.
+* Written in polyglot XHTML5 + SVG + RDFa + ARIA, CSS, JavaScript, and PHP.
+* Utilizes **[Bootstrap](https://getbootstrap.com/) 4**, **[jQuery](https://jquery.com/) 3**, and **[Normalize.css](https://necolas.github.io/normalize.css/)** 8.
+* Inspiration also from **[HTML5 Boilerplate](https://html5boilerplate.com/)**.
 
-## Krav
+## Requirements
 
-* Avser stöda moderna webbläsare (från och med Internet Explorer 10).
+* Supports only modern browsers (Internet Explorer 10 and newer).
 
 ## Copyright
 
 © 2016–2021 Kasper Sundström.
 
-Alla rättigheter förbehållna. All rights reserved.
+All rights reserved.
