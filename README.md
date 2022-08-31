@@ -22,6 +22,6 @@ Homepage for my business Fma K. Sundström.
 
 ## Copyright
 
-© 2016–2021 Kasper Sundström.
+© 2016–2022 Kasper Sundström.
 
 All rights reserved.
