@@ -11,7 +11,7 @@ Homepage for my business Fma K. Sundström.
 ## Standards and components
 
 * Written in polyglot XHTML5 + SVG + RDFa + ARIA, CSS3, and PHP.
-* Utilizes **[Bootstrap 4](https://getbootstrap.com/docs/4.6/)**, **[jQuery 3](https://jquery.com/)**, and **[Normalize.css 8](https://necolas.github.io/normalize.css/)**.
+* Utilizes **[Bootstrap 5](https://getbootstrap.com/)**, **[jQuery 3](https://jquery.com/)**, and **[Normalize.css 8](https://necolas.github.io/normalize.css/)**.
 * Structure in part from **[HTML5 Boilerplate 8](https://html5boilerplate.com/)**.
 
 

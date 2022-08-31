@@ -10,5 +10,5 @@ Location: Helsingfors, Finland
 Last update: 2022-08-31
 Language: Swedish
 Standards: Polyglot XHTML5 + SVG + RDFa + ARIA, CSS, JavaScript, PHP
-Components: Bootstrap 4, jQuery 3, Normalize.css 8, HTML5 Boilerplate
+Components: Bootstrap 5, jQuery 3, Normalize.css 8, HTML5 Boilerplate
 Software: Visual Studio Code, Atom, Notepad++, Illustrator, GitHub Desktop, GitHub, XAMPP, FileZilla

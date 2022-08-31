@@ -14,7 +14,7 @@
   <head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <!--
       K. Sundström
@@ -54,8 +54,8 @@
     <meta property="og:url" content="http://ksundstrom.fi/"/>
     <meta property="og:description" content="K. Sundström erbjuder flexibel konsultering och undervisning i redovisning, skattefrågor, organisationsjuridik, kommunikation, översättning, copy, design, webb och ADB."/>
 
-    <!-- Bootstrap 4.6.2 CSS -->
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous"/>
+    <!-- Bootstrap 5.2.0 CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous"/>
 
     <!-- Custom CSS and font imports -->
     <link rel="stylesheet" type="text/css" href="inc/css/main.css"/>
@@ -63,8 +63,8 @@
     <!-- jQuery Core 3.6.1 -->
     <script defer="defer" type="application/javascript" charset="utf-8" src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 
-    <!-- Bootstrap 4.6.2 JavaScript Bundle -->
-    <script defer="defer" type="application/javascript" charset="utf-8" src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+    <!-- Bootstrap 5.2.0 JavaScript Bundle -->
+    <script defer="defer" type="application/javascript" charset="utf-8" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
 
     <!-- Custom JavaScript -->
     <script defer="defer" type="application/javascript" charset="utf-8" src="inc/js/main.js"></script>
@@ -117,11 +117,11 @@
   <body vocab="https://schema.org/" typeof="LocalBusiness">
 
     <!-- OBSOLETE BROWSER WARNING -->
-    <!--[if lt IE 10]>
+    <!--[if lte IE 11]>
       <div class="alert alert-danger text-center" role="alert">
         <p>
           <span class="glyphicon glyphicon-alert" aria-hidden="true"></span>
-          Du använder en föråldrad webbläsare (Internet Explorer 9 eller äldre). Vänligen <a href="http://browsehappy.com/" class="alert-link">ladda ner en modern webbläsare</a>.
+          Du använder en föråldrad webbläsare (Internet Explorer 11 eller äldre). Vänligen <a href="http://browsehappy.com/" class="alert-link">ladda ner en modern webbläsare</a>.
         </p>
       </div>
     <![endif]-->
