@@ -18,7 +18,7 @@
 
     <!--
       K. Sundström
-      Copyright 2016–2021 Kasper Sundström. Alla rättigheter förbehållna. All rights reserved.
+      Copyright 2016–2022 Kasper Sundström. All rights reserved. Alla rättigheter förbehållna.
     -->
 
     <title>K. Sundström</title>
@@ -54,17 +54,17 @@
     <meta property="og:url" content="http://ksundstrom.fi/"/>
     <meta property="og:description" content="K. Sundström erbjuder flexibel konsultering och undervisning i redovisning, skattefrågor, organisationsjuridik, kommunikation, översättning, copy, design, webb och ADB."/>
 
-    <!-- Bootstrap 4.6.1 CSS -->
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous"/>
+    <!-- Bootstrap 4.6.2 CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous"/>
 
     <!-- Custom CSS and font imports -->
     <link rel="stylesheet" type="text/css" href="inc/css/main.css"/>
 
-    <!-- jQuery Core 3.6.0 -->
-    <script defer="defer" type="application/javascript" charset="utf-8" src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <!-- jQuery Core 3.6.1 -->
+    <script defer="defer" type="application/javascript" charset="utf-8" src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 
-    <!-- Bootstrap 4.6.1 JavaScript Bundle -->
-    <script defer="defer" type="application/javascript" charset="utf-8" src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+    <!-- Bootstrap 4.6.2 JavaScript Bundle -->
+    <script defer="defer" type="application/javascript" charset="utf-8" src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
 
     <!-- Custom JavaScript -->
     <script defer="defer" type="application/javascript" charset="utf-8" src="inc/js/main.js"></script>

@@ -7,8 +7,8 @@ Twitter: @ksundstrom
 Location: Helsingfors, Finland
 
 /* SITE */
-Last update: 2021-11-03
+Last update: 2022-08-31
 Language: Swedish
 Standards: Polyglot XHTML5 + SVG + RDFa + ARIA, CSS, JavaScript, PHP
-Components: Bootstrap, jQuery, Normalize.css, HTML5 Boilerplate
+Components: Bootstrap 4, jQuery 3, Normalize.css 8, HTML5 Boilerplate
 Software: Visual Studio Code, Atom, Notepad++, Illustrator, GitHub Desktop, GitHub, XAMPP, FileZilla
