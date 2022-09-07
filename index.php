@@ -54,8 +54,8 @@
     <meta property="og:url" content="http://ksundstrom.fi/"/>
     <meta property="og:description" content="K. Sundström erbjuder flexibel konsultering och undervisning i redovisning, skattefrågor, organisationsjuridik, kommunikation, översättning, copy, design, webb och ADB."/>
 
-    <!-- Bootstrap 5.2.0 CSS -->
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous"/>
+    <!-- Bootstrap 5.2.1 CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous"/>
 
     <!-- Custom CSS and font imports -->
     <link rel="stylesheet" type="text/css" href="inc/css/main.css"/>
@@ -63,8 +63,8 @@
     <!-- jQuery Core 3.6.1 -->
     <script defer="defer" type="application/javascript" charset="utf-8" src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 
-    <!-- Bootstrap 5.2.0 JavaScript Bundle -->
-    <script defer="defer" type="application/javascript" charset="utf-8" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+    <!-- Bootstrap 5.2.1 JavaScript Bundle -->
+    <script defer="defer" type="application/javascript" charset="utf-8" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
 
     <!-- Custom JavaScript -->
     <script defer="defer" type="application/javascript" charset="utf-8" src="inc/js/main.js"></script>

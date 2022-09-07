@@ -17,7 +17,7 @@ Homepage for my business Fma K. Sundström.
 
 ## Requirements
 
-* Supports only modern browsers (Internet Explorer 10 and later).
+* Supports only modern browsers (Internet Explorer 12 and later).
 
 
 ## Copyright
